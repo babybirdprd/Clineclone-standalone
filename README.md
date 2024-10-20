@@ -97,7 +97,7 @@ Refine the user interface for improved responsiveness and mobile compatibility. 
 
 ## Next Steps
 
-- Investigate responsive UI libraries and frameworks (e.g., Bootstrap, Tailwind CSS).
+- Investigate responsive UI libraries and frameworks (Tailwind CSS).
 - Experiment with different editor and terminal components for mobile compatibility.
 - Explore alternative workflows for mobile users that prioritize code review and feedback over direct editing and terminal access.
 - Conduct user testing on different mobile devices and screen sizes.
